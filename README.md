@@ -38,7 +38,7 @@ pip install seaborn
 
 ![Portfolios_Risk](Images/Sharpe_ratio.png)
 
-![Portfolios_Rolling](Images/Rolling 60-Day Beta of Roy's Portfolio.png)
+![Portfolios_Rolling](Images/Rolling_60Day_Beta_of_Roy_Portfolio.png)
 
 ## All coding can be used to produce these plots and more plots to compare portfolios can be found in [ipynb_file]("/bootcamp/Unit-4-Homework-Assignment/Homework_week_4.ipynb") 
 ---
