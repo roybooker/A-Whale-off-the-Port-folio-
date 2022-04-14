@@ -1,6 +1,6 @@
 # Unit-4 - A Whale off the Port(folio)
 ## Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best. ##
-## Using quantitative analysis techniques with Python and Pandas analysis notebook we can determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios. ## 
+## Using quantitative analysis techniques with Python and Pandas analysis notebook, our task is to determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios. ## 
 
 --------
 
@@ -40,7 +40,7 @@ pip install seaborn
 
 ![Portfolios_Risk](Images/boxplot.png)
 
-![Portfolios_Risk](Images/Sharpe_ratio.png)
+![Portfolios_sharpe_ratio](Images/Sharpe_ratio.png)
 
 ![Portfolios_Rolling](Images/Rolling_60Day_Beta_of_Roy_Portfolio.png)
 
