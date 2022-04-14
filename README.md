@@ -44,7 +44,7 @@ pip install seaborn
 
 ![Portfolios_Rolling](Images/Rolling_60Day_Beta_of_Roy_Portfolio.png)
 
-## All coding used to produce these plots and more plots of the data used compare portfolios can be found in [ipynb_file]("Homework_week_4.ipynb") 
+## All coding used to produce these plots and more plots of the data used compare portfolios can be found in [ipynb_file](Homework_week_4.ipynb) 
 ---
 
 ## Contributors
